@@ -1,6 +1,6 @@
 ## About Me
 
-]Hey this is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/)
+Hey this is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/)
  
 ## What!!
 
