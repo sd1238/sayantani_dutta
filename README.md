@@ -2,7 +2,7 @@
 
 Hey this is Sayantani Dutta, a PhD student at [Mississippi State University (https://www.msstate.edu/)
 
-## Welcome to GitHub Pages
+## What!!
 
 You can use the [editor on GitHub](https://github.com/sd1238/sayantani_dutta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
