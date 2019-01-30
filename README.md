@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! This is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/), working with [Dr. Christopher Archibald](http://web.cse.msstate.edu/~archibald/)
+Hello! This is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/), working with [Dr. Christopher Archibald](http://web.cse.msstate.edu/~archibald/). I love to travel and read books on various topics, but mostly fiction. I am huge fan of Harry Potter and James Bond.
  
 ## What!!
 
