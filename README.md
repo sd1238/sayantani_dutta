@@ -1,6 +1,6 @@
 ## About Me
 
-Hey this is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/)
+Hello! This is Sayantani Dutta, a PhD student at [Mississippi State University](https://www.msstate.edu/), working with [Dr. Christopher Archibald](http://web.cse.msstate.edu/~archibald/)
  
 ## What!!
 
